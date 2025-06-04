@@ -2,9 +2,7 @@
 #include <string>
 
 int main() {
-    std::string name;
-    std::cout << "What's your name? ";
-    std::getline(std::cin, name);
-    std::cout << "Hello, " << name << "!" << std::endl;
+ 
+    std::cout << "Estou mudando o código ";  
     return 0;
 }
